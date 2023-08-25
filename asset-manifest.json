@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/colmena_pm/static/css/main.073c9b0a.css",
+    "main.js": "/colmena_pm/static/js/main.e61ede72.js",
+    "static/js/787.b9094c5c.chunk.js": "/colmena_pm/static/js/787.b9094c5c.chunk.js",
+    "static/media/logo.svg": "/colmena_pm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/colmena_pm/index.html",
+    "main.073c9b0a.css.map": "/colmena_pm/static/css/main.073c9b0a.css.map",
+    "main.e61ede72.js.map": "/colmena_pm/static/js/main.e61ede72.js.map",
+    "787.b9094c5c.chunk.js.map": "/colmena_pm/static/js/787.b9094c5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e61ede72.js"
+  ]
+}
