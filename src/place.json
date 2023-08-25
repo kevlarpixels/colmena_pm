@@ -1,0 +1,38 @@
+{
+    "title": "Dutch Cabin in the Woods",
+    "address": "Running Springs, CA, United States",
+    "description": "MyText",
+    "checkInDate": "2015-03-30 15:04:00",
+    "checkOutDate": "2015-03-30 15:04:00",
+    "price": 150,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sleeps": 4,
+    "beds": 5,
+    "propertyType": "Cabin",
+    "roomType": "Entire home",
+    "amenities": "TV,Internet,Wireless Internet,Kitchen,Indoor Fireplace,Family/Kid Friendly,Washer,Dryer",
+    "houseRules": "MyText",
+    "cancellationPolicy": "MyText",
+    "minStay": 2,
+    "photos": [
+        {
+            "url": "https://images.pexels.com/photos/206648/pexels-photo-206648.jpeg?cs=srgb&dl=pexels-pixabay-206648.jpg&fm=jpg",
+            "caption": "MyText"
+        },
+        {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesv5zYMKJ23lEl52bNudeqW3arhmmuWIdU9M4ftT_&s",
+            "caption": "MyText"
+        },
+        {
+            "url": "http://placehold.it/350x150",
+            "caption": "MyText"
+        }
+    ],
+    "host": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "",
+        "phone": "555-555-5555"
+    }
+}
