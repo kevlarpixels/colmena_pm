@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/colmena_pm/static/css/main.6e6926f3.css",
-    "main.js": "/colmena_pm/static/js/main.977f2e1d.js",
+    "main.js": "/colmena_pm/static/js/main.23075955.js",
     "index.html": "/colmena_pm/index.html",
     "main.6e6926f3.css.map": "/colmena_pm/static/css/main.6e6926f3.css.map",
-    "main.977f2e1d.js.map": "/colmena_pm/static/js/main.977f2e1d.js.map"
+    "main.23075955.js.map": "/colmena_pm/static/js/main.23075955.js.map"
   },
   "entrypoints": [
     "static/css/main.6e6926f3.css",
-    "static/js/main.977f2e1d.js"
+    "static/js/main.23075955.js"
   ]
 }
